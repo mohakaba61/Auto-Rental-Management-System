@@ -1,0 +1,36 @@
+Credit Card information: 
+Credit Card Number=1235894985613446
+Credit Card Owner Name=Jake Paul
+Credit Card Issuing Compagny=Clover
+Merchant Code=5
+Merchant Name=Block
+Expiration Date=09-Jan-24 12:00:00 AM
+AddressLine1=14 ST
+AddressLine2=Apt 1
+City=New York City
+State code=NY
+Zip Code=11102
+Country=USA
+Credit Card Limit=1500.00
+Credit Card Balance=100.00
+Activation Status=True
+
+
+Credit Card information: 
+Credit Card Number=1111111111111111
+Credit Card Owner Name=Mohamed Kaba
+Credit Card Issuing Compagny=Google
+Merchant Code=7
+Merchant Name=PayPal
+Expiration Date=25-May-23 12:00:00 AM
+AddressLine1=410 Malcom X
+AddressLine2=
+City=NYC
+State code=NY
+Zip Code=10025
+Country=UNITED STATES
+Credit Card Limit=2000.00
+Credit Card Balance=3000.00
+Activation Status=True
+
+
